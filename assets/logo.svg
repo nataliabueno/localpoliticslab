@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+  <title>Local Politics &amp; Policy Lab</title>
+  <rect width="600" height="600" fill="#FBFAF7"/>
+  <rect x="170" y="110" width="260" height="260" rx="52" fill="#1F4E4A"/>
+  <text x="300" y="248" text-anchor="middle" dominant-baseline="central"
+        font-family="Fraunces, Georgia, 'Times New Roman', serif" font-size="128" font-weight="500" letter-spacing="-4" fill="#FBFAF7">LPP</text>
+  <text x="300" y="448" text-anchor="middle"
+        font-family="Fraunces, Georgia, 'Times New Roman', serif" font-size="46" font-weight="500" letter-spacing="-0.5" fill="#1A1A1A">Local Politics &amp; Policy</text>
+  <text x="300" y="500" text-anchor="middle"
+        font-family="Inter, Helvetica, Arial, sans-serif" font-size="19" font-weight="600" letter-spacing="5" fill="#1F4E4A">LAB · EMORY UNIVERSITY</text>
+</svg>
